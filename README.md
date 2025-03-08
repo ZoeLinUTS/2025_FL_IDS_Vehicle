@@ -45,7 +45,5 @@
 ## Contact Me
 
 If you have any questions, suggestions, or would like to contribute to this project, please feel free to reach out. Here's how you can get in touch with me:
-
-- **Email**: [Xiaojie.Lin@uts.edu.au](mailto:Xiaojie.Lin@uts.edu.au)
 - **GitHub**: [Zoe Lin UTS](https://github.com/ZoeLinUTS)
 
